@@ -1,6 +1,6 @@
 - Clone the repo and navigate to the appropriate directory:
 
-```cd kelp-assignment```
+```cd csv_to_json```
 
 - Install dependencies
 
