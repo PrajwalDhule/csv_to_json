@@ -1,0 +1,25 @@
+{
+  "name": "csv-to-json",
+  "version": "1.0.0",
+  "description": "CSV to JSON converter API",
+  "main": "index.ts",
+  "scripts": {
+    "dev": "nodemon --watch src --exec ts-node src/index.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Prajwal Dhule",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0",
+    "pg": "^8.15.6"
+  },
+  "devDependencies": {
+    "@types/express": "^5.0.1",
+    "@types/node": "^22.15.17",
+    "@types/pg": "^8.15.1",
+    "nodemon": "^3.1.10",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.8.3"
+  }
+}
