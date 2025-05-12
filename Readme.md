@@ -6,7 +6,7 @@
 
 ```npm install```
 
-- refer to the .env.example file and create a .env file with the required content
+- create an .env file with the required content:
 
 ```
 CSV_FILE_PATH="./csv/user.csv"
